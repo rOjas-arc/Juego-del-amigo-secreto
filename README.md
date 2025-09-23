@@ -1,0 +1,2 @@
+# SecretFriendAlura
+Aplicacion para sortear un amigo. En esta práctica hacemos uso de los temas aprendidos en JavaScript hasta ahora, logrando generar una lista de amigos como entrada a un input y añadiéndose con un botón agregar, luego en otro botón que selecciona un amigo aleatirio de la lista creaday lo presenta en pantalla, si el input está vacio y presionamos el botón agregar colocamos una alerta⚠ para que el se añada un nombre de un amigo.
